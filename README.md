@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Zahir-Khan/LiFi-Proof-of-Concept.svg?branch=master)](https://travis-ci.org/Zahir-Khan/LiFi-Proof-of-Concept)
+[![Build Status](https://api.travis-ci.com/Zahir-Khan/LiFi-Proof-of-Concept.svg)](https://travis-ci.org/Zahir-Khan/LiFi-Proof-of-Concept)
 [![License](https://img.shields.io/github/license/Zahir-Khan/LiFi-Proof-of-Concept.svg)](LICENSE)
 
 # LiFi-Proof-of-Concept
