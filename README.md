@@ -42,3 +42,5 @@ A proof of concept for communication using light in open air using led's and ard
   <img src="images/Sender_cli.jpg" alt="LiFi-Sender" width="400"/> 
   <img src="images/Getter_cli.jpg" alt="LiFi-Getter" width="400"/>
 </p>
+
+###### Reva University - Minor Project 2018 (Class of 2019 C&IT)
