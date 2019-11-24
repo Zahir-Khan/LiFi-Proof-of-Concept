@@ -14,7 +14,7 @@ A proof of concept for communication using light in open air using led's and ard
 ### Components
   * Arduino Uno - 2
   * Two pairs of LED's are used. One as a clock for data synchronisation and other for data transmission.
-  * LED specs vary widely, it is recommended to use similar LEDs.
+  * LED specs vary widely, it is recommended to use similar LEDs. 10mm blue colored leds were used.
 
 ### Pin Usage
 #### Sender
@@ -30,9 +30,9 @@ A proof of concept for communication using light in open air using led's and ard
 ## How-To Software
   * Load both programs onto two Arduino Uno boards.
   * Open the CLI and set the baud rate to 115200.
-  * Input a string into the sender CLI, reciever should start getting in the characters.
+  * Input a string into the sender CLI, reciever should start printing out the characters.
 ##### Notes
-  * Detection thershold is set to 300 - Must experiment to find a good value
+  * Detection thershold is set to 300 - Value changes for LED type used.
 
 ## Data Frame
 <img src="images/Data_frame.jpg" alt="LiFi-Data-Frame" width="400" align="center"/>
